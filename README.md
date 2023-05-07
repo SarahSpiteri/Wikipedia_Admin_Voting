@@ -1,4 +1,4 @@
-# Wikipedia_Admin_Voting
+# Wikipedia Admin Voting Network
 
 This project was done together with Andres Virguez (andresvBSE) for a Networks class project during a Masters in Data Science for Decision Making project at BSE.
 
